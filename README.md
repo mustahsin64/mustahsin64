@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Mustahsinul Moula  
-🚀 Software Developer | React.js Developer | iOS & Spring Boot Developer 🚀  
+🚀 Software Developer | React.js | iOS | Spring Boot  🚀  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mustahsinul-moula-siam-668656348/)    
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=firefox)](https://bold.pro/my/mustahsinul-moula-250630054046)
