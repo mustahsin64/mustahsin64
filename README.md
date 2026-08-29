@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 
 **💻 Languages:**  
-JavaScript | TypeScript | Swift | Objective-C | Java | Python
+Swift | Objective-C | JavaScript | TypeScript |  | Java | Python
 
 **🌐 Frontend:**  
 React.js | Vue js | HTML | CSS | Tailwind CSS | shadcn
